@@ -1,4 +1,4 @@
-## Table of contents
+# Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -6,8 +6,9 @@
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
+- 
 # Project Title
-## **Hello_World File**
+### **Hello_World File**
 
 # Project Description
 ### I am a junior business anaylitics and information systems major at university of Iowa. I am mostb comfortable coding with python and sql. I will be sharing some code I wrote for a class in this file. This repository was created for a professional preperation course.
