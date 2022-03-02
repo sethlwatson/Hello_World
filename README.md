@@ -14,3 +14,15 @@
 >          return(c1 in N and c2 in N)
 >          
 >      return(list(filter(Contains, S.lower().split())))'
+
+# How to run program
+### Click my profile, enter the repository section, then into main, and finally to this ReadMe file.
+
+# Files Used
+### I did not use any data files for this project.
+
+# Additional Documentation
+### Nothing important to add here. Here is a ~~strikethrough~~.
+
+# Versioning
+### Two main versions were created to help the link process for a table of contents.
