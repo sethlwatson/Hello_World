@@ -8,6 +8,9 @@
 ### here is a python function I wrote to return words within a string that contain certain characters:
 
 > def filterWords(S, c1, c2=''):
+> 
 >      def Contains(N):
+>      
 >          return(c1 in N and c2 in N)
+>          
 >      return(list(filter(Contains, S.lower().split())))'
