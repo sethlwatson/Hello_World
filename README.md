@@ -7,7 +7,7 @@
 # *My Code*
 ### here is a python function I wrote to return words within a string that contain certain characters:
 
-> def filterWords(S, c1, c2=''):
+>  def filterWords(S, c1, c2=''):
 > 
 >      def Contains(N):
 >      
