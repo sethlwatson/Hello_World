@@ -6,7 +6,7 @@
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
-- 
+
 # Project Title
 ### **Hello_World File**
 
